@@ -1,4 +1,4 @@
-##General Info
+## General Info
 
 This project is for practice with OOP design patterns that was found on tutorialspoint.com. Fundamentals: 
 - Based on the "Gang of Four", there are three types of software design patterns: Creational, Stuctural, and Behavioral.
